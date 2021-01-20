@@ -1,0 +1,18 @@
+[submodule "tiny-aes-c"]
+	path = tiny-aes-c
+	url = https://github.com/kokke/tiny-aes-c.git
+[submodule "tiny-bignum-c"]
+	path = tiny-bignum-c
+	url = https://github.com/kokke/tiny-bignum-c.git
+[submodule "tiny-ecdh-c"]
+	path = tiny-ecdh-c
+	url = https://github.com/kokke/tiny-ecdh-c.git
+[submodule "tiny-lint-c"]
+	path = tiny-lint-c
+	url = https://github.com/kokke/tiny-lint-c.git
+[submodule "tiny-mqtt-c"]
+	path = tiny-mqtt-c
+	url = https://github.com/kokke/tiny-mqtt-c.git
+[submodule "tiny-regex-c"]
+	path = tiny-regex-c
+	url = https://github.com/kokke/tiny-regex-c.git
